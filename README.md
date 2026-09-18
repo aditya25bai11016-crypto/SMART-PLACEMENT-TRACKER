@@ -92,17 +92,17 @@ A simple dashboard gives a quick overview of:
 
 ```text
 SmartPlacementTracker/
-│
-└── src/
-    ├── Main.java
-    ├── Student.java
-    ├── Skill.java
-    ├── Subject.java
-    ├── CodingProblem.java
-    ├── PlacementGoal.java
-    ├── ProgressReport.java
-    ├── Dashboard.java
-    └── DataManager.java
+
+ src/
+     Main.java
+     Student.java
+     Skill.java
+     Subject.java
+     CodingProblem.java
+     PlacementGoal.java
+     ProgressReport.java
+     Dashboard.java
+     DataManager.java
 ```
 
 ### Role of the Main Classes
